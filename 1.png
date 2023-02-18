@@ -1,0 +1,30 @@
+<head>
+    <meta charset="utf-8">
+    <title>测试</title>
+
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+ <link href="linhun.css" rel="stylesheet">
+    <link href="https://open-api.qqzwb.com/assets/index_static/mxg/awesome/css/sidenav.css" rel="stylesheet">
+<div class="footer-techs col-md-4 col-sm-12">
+                <h4 style="margin-bottom: 15px;">赞助我们</h4>
+                <ul id="donateBox" class="list pos-f tr3">
+                    <li id="QQ">QQ</li>
+                    <li id="AliPay">AliPay</li>
+                    <li id="WeChat">WeChat</li>
+                </ul>
+                <div id="QRBox" class="pos-f left-100" style="display: none;">
+                    <div id="MainBox" class="" style="background-image: url(&quot;/storage/upload/2022_11/15/ilJdhDfsapA4IoogfbFTOOP27HkSjxpprI7lm6Hr.jpg&quot;);"></div>
+                </div>
+            </div>
+			<script src="https://api.qqsuu.cn/assets/other/js/jquery.min.js"></script>
+
+<script type="text/javascript">
+    const QQ_SPONSORING_QRCODE = 'https://api.linhun.vip/api/QRcode?url=林魂科技',
+          WX_SPONSORING_QRCODE = 'https://api.linhun.vip/api/QRcode?url=林魂科技',
+          ALIPAY_SPONSORING_QRCODE= 'https://api.linhun.vip/api/QRcode?url=林魂科技';
+    const WEB_CREATED_TIME = '2022/10/01';
+    const PORTAL_LOGIN_PATH = '/login';
+    const API_LIST_WITH_PATH = '/api-list';
+    const DOCUMENT_PROGRAM_PATH = '/docs';
+</script>
+<script src="app.js"></script>
